@@ -1,0 +1,114 @@
+🚀 Interview Prep Learning Path (Java DSA)
+Step 1: Basics & Foundation
+
+Big-O Notation → time/space complexity analysis.
+
+Arrays & Strings
+
+Two pointers, sliding window, prefix/suffix sums.
+
+Common problems: subarray sum, anagrams, longest substring, matrix rotation.
+
+Step 2: Core Data Structures
+
+Linked List (reverse, detect cycle, merge two sorted lists).
+
+Stack & Queue
+
+Stack: valid parentheses, next greater element.
+
+Queue: implement stack/queue using each other, sliding window maximum.
+
+Priority Queue: Kth largest element, merge k-sorted lists.
+
+Hashing (HashMap/HashSet) → frequency count, subarray problems.
+
+Step 3: Non-Linear Structures
+
+Trees
+
+Traversals (inorder, preorder, postorder, level order).
+
+Height, diameter, balance check.
+
+Binary Search Tree operations + LCA.
+
+Heaps
+
+Min/Max heap usage.
+
+Heap sort, top-K problems.
+
+Graphs
+
+Traversals: BFS, DFS.
+
+Shortest path: Dijkstra, BFS (unweighted).
+
+Detect cycle in graph.
+
+Tries (basic) → prefix search, autocomplete.
+
+Step 4: Key Algorithms
+
+Sorting & Searching
+
+Binary Search (variants: first/last occurrence, rotated array, sqrt(x)).
+
+Merge Sort, Quick Sort.
+
+Greedy
+
+Activity selection, minimum platforms, Huffman coding.
+
+Dynamic Programming (DP)
+
+Fibonacci, climbing stairs.
+
+Knapsack, coin change, subset sum.
+
+Longest Increasing Subsequence (LIS).
+
+Longest Common Subsequence (LCS).
+
+Step 5: Systematic Problem Practice
+
+👉 Use LeetCode Top Interview Questions + GeeksforGeeks must-do DSA list.
+Patterns to master:
+
+Sliding Window
+
+Binary Search variations
+
+Recursion + Backtracking (N-Queens, Sudoku, subsets/permutations)
+
+Graph traversal problems
+
+Classic DP (Knapsack, LIS, LCS, DP on grids)
+
+Step 6: Mock & Revision
+
+Do timed practice (45–60 mins per problem set).
+
+Review mistakes & note patterns.
+
+Practice mock interviews (Pramp, LeetCode contests).
+
+🗓️ Timeline (3 Months Intensive Prep)
+
+Month 1: Arrays, Strings, Linked List, Stack, Queue, Hashing.
+
+Month 2: Trees, Heaps, Graphs, Binary Search, Sorting, Greedy.
+
+Month 3: DP + Backtracking, Tries, Mock contests, Revision.
+
+📌 Best Resources for Interview Prep
+
+Book: Data Structures and Algorithms in Java (Goodrich et al.).
+
+Book: Cracking the Coding Interview (Java code available).
+
+Practice: LeetCode, GeeksforGeeks “Top 100 Interview Questions”.
+
+Visual Learning: VisuAlgo
+ (to see DS in action).
