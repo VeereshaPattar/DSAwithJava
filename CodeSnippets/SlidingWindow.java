@@ -1,5 +1,7 @@
 package DSAwithJava.CodeSnippets;
 
+//when we need to find the largest or smallest sum of k wee need to go with sliding window
+
 public class SlidingWindow {
     static int maxSum(int arr[],int n,int k){
         int maxSum = 0;
